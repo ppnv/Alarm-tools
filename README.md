@@ -47,4 +47,6 @@ echo -e "\033[0;32mhttp://$(wget -qO- eth0.me):8888/\033[0m"
 ```
 docker logs -f --tail 20 tenderduty
 ```
-# 
+# Setting up Discord Alerts
+### Create a channel
+
