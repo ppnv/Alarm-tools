@@ -48,5 +48,14 @@ echo -e "\033[0;32mhttp://$(wget -qO- eth0.me):8888/\033[0m"
 docker logs -f --tail 20 tenderduty
 ```
 # Setting up Discord Alerts
-### Create a channel
-
+## Create a channel
+### Click on the button
+![](https://user-images.githubusercontent.com/83868103/190870811-5a6f4ebe-e20e-47d4-8803-40811adfedde.png)
+### Choose
+![](https://user-images.githubusercontent.com/83868103/190870865-4ea927f7-3a79-4fda-b199-2730f1191f19.png)
+### Choose
+![](https://user-images.githubusercontent.com/83868103/190871041-638598e7-42da-40f4-9839-8a18970c32b7.png)
+### Change name
+![](https://user-images.githubusercontent.com/83868103/190871685-45053949-0cbf-437b-994c-a9887fbbe0c4.png)
+### Done
+![](https://user-images.githubusercontent.com/83868103/190871249-baf6bf83-c2ed-466c-958b-42313777ab3d.png)
