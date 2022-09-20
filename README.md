@@ -73,3 +73,4 @@ nano $HOME/tenderduty/config.yml
 docker restart tenderduty
 ```
 Done!
+![](https://user-images.githubusercontent.com/85553781/191195229-c5a9b30b-5a76-498a-8bdf-ced37a984c24.png)
