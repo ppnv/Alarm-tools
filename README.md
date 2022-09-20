@@ -59,3 +59,17 @@ docker logs -f --tail 20 tenderduty
 ![](https://user-images.githubusercontent.com/83868103/190871685-45053949-0cbf-437b-994c-a9887fbbe0c4.png)
 ### Done
 ![](https://user-images.githubusercontent.com/83868103/190871249-baf6bf83-c2ed-466c-958b-42313777ab3d.png)
+## Creating a Webhook
+![](https://img3.teletype.in/files/24/1f/241f4b9f-1f99-429e-87d4-7ca279017c1f.png)
+![](https://img2.teletype.in/files/5f/2a/5f2aeb02-68b5-4c72-ad78-d9b0f6622a63.png)
+![](https://img3.teletype.in/files/2c/ac/2cac225d-19e6-420e-83c7-2fb425eeba3d.png)
+## TenderDuty configuration update
+```
+nano $HOME/tenderduty/config.yml
+```
+![](https://img2.teletype.in/files/d9/44/d94411df-cd43-44c9-b7ab-7bf4f6ed40e5.png)
+## Restarting with the command
+```
+docker restart tenderduty
+```
+Done!
